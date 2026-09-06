@@ -20,6 +20,8 @@ for student, score in students_scores:
 
 ********************************************************************************************
 
+hello suhail welcome to git hub 
+
 # Tuple of student names and scores
 
 students_scores = (("Alice", 85), ("Lin", 76), ("Ivan", 65), ("Jabari", 90), ("Sergio", 58), ("Luisa", 94), ("Elvinas", 41))
